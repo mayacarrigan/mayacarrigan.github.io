@@ -1,4 +1,4 @@
-const text = "urban-micro-biologies";
+const text = "urban-micro-ecologies";
 const speed = 90; // typing speed ms per letter
 let index = 0;
 
